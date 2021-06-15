@@ -1,5 +1,5 @@
-class sample{
-	public static String hello(){
-		return "Hello";
-	}
+class bugay{
+    public static String name(){
+        return "Hello, My name is Aira Mae Bugay"; 
+    }
 }
